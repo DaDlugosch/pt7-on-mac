@@ -1,15 +1,13 @@
 # How to install Packet Tracer 7.1.1 on Mac?
 
 
-1. Go to video description and click on link to download source files (NO VIRUS, checked by ESET), then please extract it
+1. Go to video description and click on link (or https://github.com/DaDlugosch/pt7-on-mac) to download source files (NO VIRUS, checked by ESET). If you download files, you will need to extract it
  
-1. Go to site https://www.playonmac.com/en/ and download PlayOnMac software
+1. Clone or download the repository into your computer with all source files
 
-1. Go to site https://www.xquartz.org and download XQuartz software
+1. Install XQuartz software on your Mac
 
-1. Install XQuartz software on your Mac (I already have it)
-
-1. Install PlayOnMac software on your Mac (I already have it)
+1. Install PlayOnMac software on your Mac
 
 1. Open PlayOnMac and click on "Install program"
 
