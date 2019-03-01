@@ -11,7 +11,7 @@
 
 1. Open PlayOnMac and click on "Install program"
 
-1. In the bottom left click on "Install another program"
+1. In the bottom left corner click on "Install another program"
 
 1. Click "Next" and "Next" again
 
