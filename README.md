@@ -17,9 +17,7 @@
 
 1. That will open "Manual install window". Click "Next" and "Next"
 
-1. Write the name of your program
-
-1. Then write name of virtual unit (without spaces!!!)
+1. Write the name of virtual unit (without spaces!!!)
 
 1. Click "Next"
 
