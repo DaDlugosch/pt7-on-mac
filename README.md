@@ -43,4 +43,4 @@
 
 1. All works!!
 
-**Thanks for watching**
+**Thanks for reading**
